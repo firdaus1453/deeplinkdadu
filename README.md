@@ -45,7 +45,7 @@ idorder = idorder, ex : 97d136e3-978d-4882-a06d-4785cc83a600
 - [Deeplink Promo Detail](dadu://gits.app/link?type=detailorder&idorder=97d136e3-978d-4882-a06d-4785cc83a600)  
 dadu://gits.app/link?type=detailorder&idorder=97d136e3-978d-4882-a06d-4785cc83a600  
 
-### For deeplink go to waiting order page
+### For deeplink go to waiting payment page
 BASE_URL = shober://gits.app/  
 link = link  
 type = waitingorder  
@@ -54,7 +54,7 @@ type = waitingorder
 - [Deeplink Order](dadu://gits.app/link?type=waitingorder)    
 dadu://gits.app/link?type=waitingorder  
 
-### For deeplink go to waiting order detail page  
+### For deeplink go to waiting payment detail page  
 BASE_URL = shober://gits.app/  
 link = link    
 type = detailwaitingorder  
