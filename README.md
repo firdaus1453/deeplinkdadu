@@ -18,8 +18,8 @@ dadu://gits.app/link?type=gojek&result=failure
 BASE_URL = shober://gits.app/
 link = link
 type = promo
-idpromo = idpromo order, ex : 97d136e3-978d-4882-a06d-4785cc83a600  
+idpromo = idpromo order, ex : f35da629-0c7d-4184-87aa-b7c456945e59  
 
 > Example :  
-- [Deeplink Promo Detail](https://dadu://gits.app/link?type=promo&idpromo=)  
-dadu://gits.app/link?type=promo&idpromo=
+- [Deeplink Promo Detail](https://dadu://gits.app/link?type=promo&idpromo=f35da629-0c7d-4184-87aa-b7c456945e59)  
+dadu://gits.app/link?type=promo&idpromo=f35da629-0c7d-4184-87aa-b7c456945e59
