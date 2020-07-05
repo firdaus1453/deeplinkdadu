@@ -23,3 +23,6 @@ idpromo = idpromo order, ex : f35da629-0c7d-4184-87aa-b7c456945e59
 > Example :  
 - [Deeplink Promo Detail](https://dadu://gits.app/link?type=promo&idpromo=f35da629-0c7d-4184-87aa-b7c456945e59)  
 dadu://gits.app/link?type=promo&idpromo=f35da629-0c7d-4184-87aa-b7c456945e59
+
+
+> Please remove https in link
