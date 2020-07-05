@@ -1,6 +1,7 @@
 # deeplinkdadu
 Documentation for scheme deeplink dadu apps  
-> You can test with copy deeplink to this web https://halgatewood.com/deeplink/, and tap on your smarthphone
+> You can test with copy deeplink to this web https://halgatewood.com/deeplink/, and tap on your smarthphone  
+> Example : https://halgatewood.com/deeplink/?link=dadu%3A%2F%2Fgits.app%2Flink%3Ftype%3Ddetailorder%26idorder%3D97d136e3-978d-4882-a06d-4785cc83a600  
 
 ### For deeplink callback Gojek
 BASE_URL = dadu://gits.app/  
@@ -24,8 +25,6 @@ idpromo = idpromo, ex : f35da629-0c7d-4184-87aa-b7c456945e59
 > Example :  
 - [Deeplink Promo Detail](dadu://gits.app/link?type=promo&idpromo=f35da629-0c7d-4184-87aa-b7c456945e59)  
 dadu://gits.app/link?type=promo&idpromo=f35da629-0c7d-4184-87aa-b7c456945e59  
-  
-https://halgatewood.com/deeplink/?link=dadu%3A%2F%2Fgits.app%2Flink%3Ftype%3Ddetailorder%26idorder%3D97d136e3-978d-4882-a06d-4785cc83a600  
 
 ### For deeplink go to list order page
 BASE_URL = dadu://gits.app/  
