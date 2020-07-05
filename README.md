@@ -1,5 +1,5 @@
 # deeplinkdadu
-Documentation for scheme deeplink dadu apps  
+Documentation for schema deeplink dadu apps  
 > You can test with copy deeplink to this web https://halgatewood.com/deeplink/, and tap on your smarthphone  
 > Example : https://halgatewood.com/deeplink/?link=dadu%3A%2F%2Fgits.app%2Flink%3Ftype%3Ddetailorder%26idorder%3D97d136e3-978d-4882-a06d-4785cc83a600  
 
