@@ -56,8 +56,8 @@ dadu://gits.app/link?type=waitingorder
 BASE_URL = shober://gits.app/  
 link = link  
 type = detailwaitingorder  
-url = url link go to midtrans web waiting, ex :  
+url = url link go to midtrans web waiting, ex : https://app.sandbox.midtrans.com/snap/v2/vtweb/6b2d7e3b-8d09-47fc-ad8e-36551f24ed44 
 
 > Example :  
-- [Deeplink Promo Detail](dadu://gits.app/link?type=detailwaitingorder&url=)  
-dadu://gits.app/link?type=detailwaitingorder&url=
+- [Deeplink Promo Detail](dadu://gits.app/link?type=detailwaitingorder&url=https://app.sandbox.midtrans.com/snap/v2/vtweb/6b2d7e3b-8d09-47fc-ad8e-36551f24ed44)  
+dadu://gits.app/link?type=detailwaitingorder&url=https://app.sandbox.midtrans.com/snap/v2/vtweb/6b2d7e3b-8d09-47fc-ad8e-36551f24ed44
